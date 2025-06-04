@@ -5,6 +5,6 @@ if (edad < 18) {
 } else if (edad>= 18 && edad < 65) {
     console.log("adulto");
 } else {
-    console.log("adulto mayor");
+    console.log("adulto mayor ");
 }
 
